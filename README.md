@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Project #1</b>
-  - [Project #1](https://github.com/MannyRoa05/LabURL) 
+  - [Project #1][(https://github.com/MannyRoa05/ProjectNumberOne/blob/main/README.md)]
 
 <h2>📄 Certifications</h2>
 
